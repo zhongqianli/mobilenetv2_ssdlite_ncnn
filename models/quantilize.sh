@@ -1,0 +1,1 @@
+ncnn2int8 mbv2_ssdlite_nobn/mobilenetv2_ssdlite_voc.param mbv2_ssdlite_nobn/mobilenetv2_ssdlite_voc.bin mbv2_ssdlite_int8/mobilenetv2_ssdlite_voc.param mbv2_ssdlite_int8/mobilenetv2_ssdlite_voc.bin mbv2_ssdlite_nobn.table

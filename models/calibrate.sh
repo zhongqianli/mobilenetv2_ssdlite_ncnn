@@ -1,0 +1,1 @@
+ncnn2table --param=mbv2_ssdlite_nobn/mobilenetv2_ssdlite_voc.param --bin=mbv2_ssdlite_nobn/mobilenetv2_ssdlite_voc.bin --images=../images/ --output=mbv2_ssdlite_nobn.table --mean=127.5,127.5,127.5 --norm=0.007843,0.007843,0.007843 --size=300,300 --thread=10
